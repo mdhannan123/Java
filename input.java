@@ -9,6 +9,7 @@ public class input {
         int c= a+b;
         System.out.println(" the sum of these two number is "+c);
 
+
         
     }
 
