@@ -16,10 +16,18 @@ public class naturalnum {
         //     System.out.println(i);
         //     i++;
         // }
-        for(int i=10; i>0; i--){
-            System.out.println(i);
+        // for(int i=10; i>0; i--){
+        //     System.out.println(i);
+        // }
+        int n=4;
+        for(int i=n; i>0;i--)
+        {
+            for(int j=0; j<i;j++){
+            System.out.print("*");
+
         }
-        
+        System.out.print("\n");
     }
+}
 }
     
